@@ -1,0 +1,98 @@
+Contraband
+Denne filmen glemmer du fort .
+Er den islandske regissøren Baltasar Kormákur i ferd med å bli slukt av Hollywood ?
+Hans nye film , Contraband , er et helt greit actiondrama , men mangler noe som ligner særpreg .
+Dette er en A4-film som føles å være laget etter en velbrukt oppskrift .
+Kjente fjes som Mark Wahlberg , Giovanni Ribisi , Ben Foster og Kate Beckinsale i de største rollene , sørger for at kvaliteten aldri dropper under middels .
+Men jeg føler samtidig at Kormákur har mye mer inne som filmskaper enn han har fått muligheten til å bevise her .
+Smugler falske penger
+Chris Farraday ( Mark Wahlberg ) har lagt smuglerkarrieren på hylla .
+Men så pådrar svigerbroren seg smuglergjeld , og Chris må ty til gamle triks for å redde familien .
+Han ber kameraten Sebastian ( Ben Foster ) passe på kona ( Kate Beckinsale ) , mens han og svigerbroren tar hyre på et containerskip til Panama for å smugle med seg falske dollars tilbake .
+Men operasjonen skal bli langt vanskeligere og farligere enn Chris hadde forutsett , både for ham selv og for familien hjemme i USA .
+Begrenset rekkevidde
+Den gamle forbryteren som tvinges til ett siste brekk har vi sett utallige ganger på film .
+Og det er ingenting som skiller Wahlbergs figur ut fra mengden .
+Chris Farraday er en helt ordinær figur , gestaltet av en skuespiller med begrenset rekkevidde , men med en viss karisma .
+Wahlberg er selv en av produsentene , noe som kanskje forklarer at hovedfokuset hele tiden ligger på ham selv , mens andre virker nedprioriterte .
+Selv figuren til en bedre skuespiller som Ben Foster blir kuttet ned til et minste felles multiplum .
+Djevelske tilfeldigheter
+Reisen til Panama og hva som skjer der nede er skildret med fin flyt og noen sekvenser med eksplosiv action .
+Vi får følelsen av å være på en spennende tur med gutta , samtidig som utryggheten er til å ta og føle på .
+Kormákur viser at han også behersker denne delen av filmspekteret .
+Men han har ikke mulighet til å unngå følelsen av at dette er sett mange ganger før .
+Originaliteten er lav .
+Noen av plotelementene føles også noe anstrengte , da de er avhengige av både djevelske tilfeldigheter og himmelsk timing .
+Fort sett , fort glemt
+Contraband underholder nok til å være verdt en kikk , bare du ikke forventer deg all verden av kvalitet .
+Dette er glatt action som er fort sett og fort glemt .
+Og enn så lenge lager Baltasar Kormákur bedre filmer hjemme på Island enn i USA .
+
+{'entity': 'Mark Wahlberg', 'sentiment': 'Negative-Slight'}
+{'entity': 'Hollywood', 'sentiment': 'Neutral'}
+{'entity': 'Baltasar Kormákur', 'sentiment': 'Negative-Standard'}
+{'entity': 'Sebastian', 'sentiment': 'Neutral'}
+{'entity': 'Chris Farraday', 'sentiment': 'Neutral'}
+{'entity': 'Kate Beckinsale', 'sentiment': 'Positive-Standard'}
+{'entity': 'Giovanni Ribisi', 'sentiment': 'Positive-Standard'}
+{'entity': 'Ben Foster', 'sentiment': 'Positive-Standard'}
+
+
+
+Latterlig bever
+" The beaver " forsøker å ta opp depresjon , men mislykkes .
+Det beste man kan si om " The Beaver " , er at temaet som filmen forsøker å ta opp – depresjon – angår altfor mange av oss .
+Desto mer synd er det at verken manus eller skuespillere trekker oss inn på en engasjerende måte .
+Det er mange filmatiske problemer med " The Beaver " .
+Ett er at Mel Gibson spiller den deprimerte familiefaren med samme ansiktsuttrykk absolutt hele veien .
+Manusforfatterne har gitt figuren hans navnet Walter Black , i tilfelle vi ikke skjønner at han er deprimert .
+Den slags overtydelighet er typisk for filmen .
+Nå er herr Black deprimert , nå vil han henge seg i dusjen , nå vil han kaste seg utfor balkongen , nå dunker tenåringssønnen hans hull i soveromsveggen i frustrasjon over faren .
+Likevel oppleves Blacks depresjon som en påstand .
+Jeg savner at det levendegjøres hva slags liv han levde før han endte i det svarte mørket , men nei , her må vi bare godta at mor , far , nesten voksen sønn og småskolegutt overhodet ikke fungerer sammen lenger .
+Aller mest irriterende er manusforfatterens påfunn med Beveren – en hånddukke som herr Black tyr til som en slags terapeutisk stemme i et forsøk på å skape den rette distanse mellom ham selv og omgivelsene .
+Men også Beveren forblir en påstand av en metafor , et stygt , litt komisk vesen som Gibson bærer rundt på uten at jeg kommer på noe ved dyret som tilfører helbredende assosiasjoner .
+Like fullt kommer Walter på talefot med yngstemann , kan elske igjen med kona ( Jodie Foster ) og gjør kommersiell beversuksess i selskapet der han egentlig er en mislykket sjef .
+Regissør Foster må selv ha følt på at beverdokka ikke funker ordentlig og sørger på brutalt vis for å eksportere den ut av storyen mot slutten .
+Forsøket på å lage en parallell historie om eldstesønnen ( Anton Yelchin ) og medeleven Norah ( Jennifer Lawrence ) , er heller ikke av det vellykkede slaget .
+Gutten skriver stiler for andre mot betaling , Norah er et deprimert skolelys med sorg i bagasjen .
+" The Beaver " er en film der manusforfatter og regissør opererer med uferdige sketsjer til en handling , med skikkelser du aldri kommer på innsiden av og dermed aldri føler noe for .
+Og et sluttbudskap som er så overflatisk og selvfølgelig at det blir mest latterlig .
+The beaver
+Regi : Jodie Foster .
+Med :
+Jodie Foster , Anton Yelchin , Mel Gibson , Jennifer Lawrence , Riley Thomas Stewart .
+USA 2010 .
+1 time 31 minutter .
+Aldersgrense : 11 år , egnethet : Ungdom / voksen .
+
+{'entity': 'Jennifer Lawrence', 'sentiment': 'Negative-Slight'}
+{'entity': 'Anton Yelchin', 'sentiment': 'Negative-Slight'}
+{'entity': 'Walter Black', 'sentiment': 'Neutral'}
+{'entity': 'Norah', 'sentiment': 'Positive-Slight'}
+{'entity': 'Riley Thomas Stewart', 'sentiment': 'Negative-Slight'}
+{'entity': 'Jodie Foster', 'sentiment': 'Negative-Standard'}
+{'entity': 'Mel Gibson', 'sentiment': 'Negative-Standard'}
+
+
+
+For tydelig identitet ?
+Kent låter som Kent uansett hvordan de vrir på det .
+ALBUM :
+Man kan mene mye om Kent , men at de etter mer enn 20 år som band har bevist at de har egenart , er det liten tvil om .
+Rett som det er leverer de dessuten monumentale låter som det skal mye til å stå imot , om man vil eller ei , og det har gjort dem til et av Skandinavias mest populære band .
+Utfylt lydbilde
+Det begynner å bli en stund siden svenskene lot fuzzgitarene hvile til fordel for et tydeligere synthpreg og flere elektroniske produksjoner .
+Heller ikke nå ser de seg tilbake , men låtene har mer rock i seg enn for eksempel tre år gamle « Röd » .
+Beats og synthlag befinner seg i en grundig utfylt pakke , ofte med piano , taktfaste trommer og flytende gitarlinjer .
+Flere steder minner lydbildet om stadionrockveien Arcade Fire har tatt - i førstesingelen « 999 » med hamrende piano og strykere , i « Tänd på » -refrenget med discobass , piano og lyst synthunderlag - uten at det låter mindre Kent av den grunn .
+Særpreg med en pris Mange spor ( « Jag ser dig » , « 999 » ) er i tillegg musikalsk lystigere enn vanlig - spesialiteten er tross alt skamløst emosjonelle låter med en underliggende desperasjon , som i albumbeste « Låt dom komma » .
+Svakheten , og baksiden av « tydelig identitet » -medaljen , gjør seg imidlertid gjeldende også denne gang :
+Jocke Bergs særpregede vokalmelodier og forkjærligheten for det inadvendte går utover variasjonen , og gjør låter som « Beredd på allt » og « Ruta 1 » for anonyme - tross sympatiske trekk .
+
+{'entity': 'Jocke Bergs', 'sentiment': 'Positive-Slight'}
+{'entity': 'Kent', 'sentiment': 'Positive-Standard'}
+{'entity': 'Arcade Fire', 'sentiment': 'Neutral'}
+
+
+
