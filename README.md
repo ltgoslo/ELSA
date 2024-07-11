@@ -1,6 +1,8 @@
 # ELSA - a Norwegian Entity-level sentiment dataset
 
-The enclosed files contain our Entilty-level annotations of the [Norec_fine](https://github.com/ltgoslo/norec_fine) dataset. Our annotations provide separate annotations for each volitional entity in each document. The Norec_fine texts are drawn from [NoReC](https://github.com/ltgoslo/norec). The NoReC repo contains metadata about the texts in our dataset, e.g. category, date of publishing, and author(s).
+The enclosed files contain our Entilty-level annotations of the [Norec_fine](https://github.com/ltgoslo/norec_fine) dataset. Our annotations provide separate annotations for each volitional entity in each document. The Norec_fine texts are drawn from [NoReC](https://github.com/ltgoslo/norec). The NoReC repo contains metadata about the texts in our dataset, e.g. category, date of publishing, and author(s).  
+
+**The paper** presenting this dataset [can be found here](http://arxiv.org/abs/2407.03916).
 
 ## Folder [annotations](annotations)
 ### doc_data
